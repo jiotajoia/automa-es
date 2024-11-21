@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Diretórios de build
+/dist/
+/build/
+
+# Logs
+*.log
+
+# Arquivos temporários de editores de texto
+.vscode/
+/.idea/
+/*.swp
+
+# Dependências do Yarn
+.yarn/
+
+# Arquivos do npm
+package-lock.json
+
+# Arquivos de cache
+.cache/
+
+# Arquivos de configuração do ambiente
+.env
+.env.*
+
+# Arquivos de saída do bundler (exemplo: Webpack, Babel, etc)
+*.bundle.js
+*.map
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do Photoshop
+*.psd
+
+# Arquivos de configuração do TSLint
+tslint.json
