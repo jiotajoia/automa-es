@@ -38,4 +38,4 @@ Thumbs.db
 *.psd
 
 # Arquivos de configuração do TSLint
-tslint.json
+tslint.json 
