@@ -34,8 +34,14 @@ package-lock.json
 .DS_Store
 Thumbs.db
 
-# Arquivos do Photoshop
-*.psd
-
 # Arquivos de configuração do TSLint
 tslint.json 
+
+# arquivos de testes
+*.pdf
+*.xlsx
+*.jpg
+*.jpeg
+*.png
+*.psd
+*.mp4
